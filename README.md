@@ -18,7 +18,9 @@ Provision a Docker container (NGINX) using Terraform on an Ubuntu EC2 instance.
 7. Destroyed the infrastructure using `terraform destroy`.
 
 ## 📸 Output Screenshot
-(Optional: Add a screenshot of browser or `docker ps` output)
+![Screenshot 2025-04-10 185434](https://github.com/user-attachments/assets/868675f3-7768-4912-9f63-a31ee9e87190)
+
+![Screenshot 2025-04-10 184650](https://github.com/user-attachments/assets/54f930d9-676e-45a6-847a-6f97e4ea26f2)
 
 ## 🙋‍♂️ Author
 Mohammed Sohail
